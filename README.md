@@ -1,6 +1,6 @@
 <div align="center"><img src="maradona.gif" height: "100px"></div>
 <h1 align="center">Hi 👋, I'm Marcos Dedeu</h1>
-<h3 align="center">A passionate computer engineering student from Argentina</h3>
+<h3 align="center">A passionate computer engineering student from Argentina<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Animated-Flag-Argentina.gif" width:"40px" height="30px"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdedeu&label=Profile%20views&color=0e75b6&style=flat" alt="mdedeu" /> </p>
 
