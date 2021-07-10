@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Solidity, Vue, React,Javascript**
 
-- 👯 I’m looking to collaborate on **on Ethereum DeFi projects**
+- 👯 I’m looking to collaborate on **Ethereum DeFi projects and tokenizing Real World Assets**
 
 - 💬 Ask me about **Java, C and PHP**
 
