@@ -6,7 +6,7 @@
 
 I'm an american-argentinian Full-Stack developer and Software Engineering student at the Buenos Aires Institute of Technology (ITBA). I'm also  a member of the Blockchain Club from the IEEE's Computer Society ITBA Student Branch.
 
-I love building cool stuff.
+I love building cool stuff. Technology is the vehicle to make people's life better. Ethereum for a freer and more inclusive world. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
