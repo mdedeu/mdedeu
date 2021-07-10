@@ -16,5 +16,5 @@ I love building cool stuff. Technology is the vehicle to make people's life bett
 </p>
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/E2-sdPfUUAE9Z2m?format=jpg&name=small">
+<img src="https://ethereum.org/static/bf78b49d7e23b88a7eea934225b0cf96/f3583/enterprise-eth.png" width:"100%">
   </div>
