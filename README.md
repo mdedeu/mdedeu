@@ -4,15 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdedeu&label=Profile%20views&color=0e75b6&style=flat" alt="mdedeu" /> </p>
 
-- 🌱 I’m currently learning **Solidity, Vue, React,Javascript**
+I'm an american-argentinian Full-Stack developer and Software Engineering student at the Buenos Aires Institute of Technology (ITBA). I'm also  a member of the Blockchain Club from the IEEE's Computer Society ITBA Student Branch.
 
-- 👯 I’m looking to collaborate on **Ethereum DeFi projects and tokenizing Real World Assets**
-
-- 💬 Ask me about **Java, C and PHP**
-
-- 📫 How to reach me **mdedeu@itba.edu.ar**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/marcosdedeu](https://www.linkedin.com/in/marcosdedeu)
+I love building cool stuff.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
