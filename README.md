@@ -1,4 +1,4 @@
-### Hi there ![wave](https://user-images.githubusercontent.com/62359173/125173833-b5b85580-e197-11eb-8038-0a23689f914b.gif), I am Marcos Dedeu from Argentina![Flag_of_Argentina](https://user-images.githubusercontent.com/62359173/125173869-029c2c00-e198-11eb-86a0-0f479dec1065.gif)
+### Hi there  <img src="https://user-images.githubusercontent.com/62359173/125173833-b5b85580-e197-11eb-8038-0a23689f914b.gif"  width: "30px:" > , I am Marcos Dedeu from Argentina![Flag_of_Argentina](https://user-images.githubusercontent.com/62359173/125173869-029c2c00-e198-11eb-86a0-0f479dec1065.gif)
 
 
 <!--
