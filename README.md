@@ -12,9 +12,7 @@
 
 - 📫 How to reach me **mdedeu@itba.edu.ar**
 
-- 📄 Know about my experiences [https://www.linkedin.com/marcosdedeu](https://www.linkedin.com/marcosdedeu)
-
-- ⚡ Fun fact **I love Soccer**
+- 📄 Know about my experiences [https://www.linkedin.com/in/marcosdedeu](https://www.linkedin.com/in/marcosdedeu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
