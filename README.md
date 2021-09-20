@@ -6,7 +6,7 @@
 
 I'm an american-argentinian Full-Stack developer and Software Engineering student at the Buenos Aires Institute of Technology (ITBA). I'm also  a member of the Blockchain Club from the IEEE's Computer Society ITBA Student Branch.
 
-I love building cool stuff. Technology is the vehicle to make people's life better. Ethereum for a freer and more inclusive world. 
+I love building cool stuff. Technology is the vehicle to make people's life better.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,6 +15,3 @@ I love building cool stuff. Technology is the vehicle to make people's life bett
 <a href="https://instagram.com/marcosdedeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcosdedeu" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-<img src="https://ethereum.org/static/bf78b49d7e23b88a7eea934225b0cf96/f3583/enterprise-eth.png" width:"100%">
-  </div>
