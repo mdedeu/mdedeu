@@ -1,10 +1,9 @@
-<div align="center"><img src="maradona.gif" height: "80px"></div>
 <h1 align="center">Hi 👋, I'm Marcos Dedeu</h1>
 <h3 align="center">Software engineering student and Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdedeu&label=Profile%20views&color=0e75b6&style=flat" alt="mdedeu" /> </p>
 
-I'm a Full-Stack developer and Software Engineering student at the Buenos Aires Institute of Technology (ITBA). I'm also  a member of the Blockchain Club from the IEEE's Computer Society ITBA Student Branch.
+I'm a Full-Stack developer and Software Engineering student at the Buenos Aires Institute of Technology (ITBA). I'm the president of the IEEE's Computer Society Student Branch in my university, ITBA.
 
 I love building cool stuff. Technology is the vehicle to make people's life better.
 
