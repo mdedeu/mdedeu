@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdedeu&label=Profile%20views&color=0e75b6&style=flat" alt="mdedeu" /> </p>
 
-I'm a Full-Stack developer and Software Engineering student at the Buenos Aires Institute of Technology (ITBA). I'm the president of the IEEE's Computer Society Student Branch in my university, ITBA.
+I'm a Full-Stack developer and Software Engineering student at the Buenos Aires Institute of Technology (ITBA). I'm the president of the IEEE's Computer Society Student Branch in my university, ITBA. <a href="https://csitba.web.app">CS Webpage</a>
 
 I love building cool stuff. Technology is the vehicle to make people's life better.
 
