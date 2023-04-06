@@ -5,7 +5,10 @@
 
 I'm a Full-Stack developer and Software Engineering student at the Buenos Aires Institute of Technology (ITBA). I'm the president of the IEEE's Computer Society Student Branch in my university, ITBA. <a href="https://csitba.web.app">CS Webpage</a>
 
+<img src="https://github-readme-stats.vercel.app/api?username=mdedeu&show_icons=true&theme=dark"/>
+
 I love building cool stuff. Technology is the vehicle to make people's life better.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
