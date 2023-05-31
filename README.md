@@ -7,6 +7,7 @@ I'm a Full-Stack developer and Software Engineering student at the Buenos Aires 
 
 I love building cool stuff. Technology is the vehicle to make people's life better.
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mdedeu?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
