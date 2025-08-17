@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marcos Dedeu</h1>
-<h3 align="center">Software engineering student and Full Stack Developer</h3>
+<h3 align="center">Senior Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdedeu&label=Profile%20views&color=0e75b6&style=flat" alt="mdedeu" /> </p>
-
-I'm a Full-Stack developer and Software Engineering student at the Buenos Aires Institute of Technology (ITBA). I'm the former president of the IEEE's Computer Society Student Branch in my university, ITBA. <a href="https://csitba.web.app">CS Webpage</a>. Founder of <a href="https://hackitba.com/">HackIT-BA</a>, the best hackathon in Buenos Aires.
-
-I love building cool stuff. Technology is the vehicle to make people's life better.
+I'm a Senior Software Engineer with 5 years of experience specializing in backend systems and cloud infrastructure. Currently working as a Cloud Architect at Google, I design scalable distributed systems and RESTful APIs that handle millions of requests while maintaining high performance and reliability.
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mdedeu?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
